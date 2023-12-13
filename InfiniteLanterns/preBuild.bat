@@ -1,0 +1,2 @@
+if not exist "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteLanterns" mkdir "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteLanterns"
+del /q "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteLanterns\InfiniteLanterns.dll"

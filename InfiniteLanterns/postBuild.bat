@@ -1,0 +1,1 @@
+xcopy /y InfiniteLanterns.dll "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteLanterns"
